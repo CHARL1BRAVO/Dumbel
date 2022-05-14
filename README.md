@@ -1,3 +1,3 @@
 # Testing and flexing
 
-somthing to do somthing
+Something to do something
